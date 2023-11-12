@@ -13,6 +13,7 @@
 
             for (int i = 0; i < 3; i++)
                 Console.WriteLine("This is the second feature.");
+            Console.WriteLine("А я тут притаился");
         }
     }
 }
